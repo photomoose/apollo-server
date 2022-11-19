@@ -1,5 +1,14 @@
 # @apollo/server
 
+## 4.1.2
+
+### Patch Changes
+
+- [#7172](https://github.com/apollographql/apollo-server/pull/7172) [`7ff96f533`](https://github.com/apollographql/apollo-server/commit/7ff96f5331fbf14c0a25094007f6f05e799ee052) Thanks [@trevor-scheer](https://github.com/trevor-scheer)! - startStandaloneServer: Restore body-parser request limit to 50mb (as it was in the `apollo-server` package in Apollo Server 3)
+
+- Updated dependencies [[`45856e1dd`](https://github.com/apollographql/apollo-server/commit/45856e1ddfd646c93682d3d8475bf77fbcc1c22c)]:
+  - @apollo/server-gateway-interface@1.0.6
+
 ## 4.1.1
 
 ### Patch Changes

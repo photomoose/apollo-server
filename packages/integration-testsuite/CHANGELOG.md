@@ -1,5 +1,12 @@
 # @apollo/server-integration-testsuite
 
+## 4.1.2
+
+### Patch Changes
+
+- Updated dependencies [[`7ff96f533`](https://github.com/apollographql/apollo-server/commit/7ff96f5331fbf14c0a25094007f6f05e799ee052)]:
+  - @apollo/server@4.1.2
+
 ## 4.1.1
 
 ### Patch Changes

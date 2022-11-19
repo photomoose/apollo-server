@@ -1,5 +1,11 @@
 # @apollo/server-gateway-interface
 
+## 1.0.6
+
+### Patch Changes
+
+- [#7173](https://github.com/apollographql/apollo-server/pull/7173) [`45856e1dd`](https://github.com/apollographql/apollo-server/commit/45856e1ddfd646c93682d3d8475bf77fbcc1c22c) Thanks [@trevor-scheer](https://github.com/trevor-scheer)! - Remove unnecessary engines constraint on types-only package
+
 ## 1.0.5
 
 ### Patch Changes
